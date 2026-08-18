@@ -9,10 +9,18 @@ public:
         // }
         // return nums;
 
+        // for(int i = 1; i<n; i++){
+        //     nums[i] = nums[i-1] + nums[i];
+        // }
+        // return nums;
+
+
+        vector <int> runningsum(n);
+        runningsum[0] = nums[0];
         for(int i = 1; i<n; i++){
-            nums[i] = nums[i-1] + nums[i];
+            runningsum[i] = runningsum[i-1]+nums[i];
         }
-        return nums;
+        return runningsum;
         
     }
 };
