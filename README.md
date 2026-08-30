@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
