@@ -1,26 +1,26 @@
 class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
-        unordered_map<int, int> mpp;
+        unordered_map <int, int> mp;
         int n = nums.size();
+        int maxlen = 0;
         int prefix = 0;
-        int ans = 0;
-        mpp[0] = -1;
-        for(int i = 0; i<n; i++){
+        mp[0] = -1;
+        for (int i = 0; i<n; i++){
             if (nums[i]==0){
-                prefix +=-1;
+                prefix -=1;
             }
             else{
-                prefix += 1;
+                prefix +=1;
             }
-
-            if (mpp.count(prefix)){
-                ans = max(ans, i-mpp[prefix]);
+            if(mp.find(prefix)!= mp.end()){
+                int length = i - mp[prefix];
+                maxlen = max(length, maxlen);
             }
             else{
-                mpp[prefix] = i;
+                mp[prefix] = i;
             }
         }
-        return ans;
+        return maxlen;
     }
 };
