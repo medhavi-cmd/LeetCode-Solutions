@@ -2,17 +2,17 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         map<int, int> mp;
-        mp[0] = 1;
+        int count = 0;
         int prefix = 0;
-        int cnt = 0;
-        for(int x : nums){
-           prefix += x;
-           int needed_sum = prefix - k;
-           if (mp.find(needed_sum) != mp.end()){
-            cnt += mp[needed_sum];
-           }
-           mp[prefix]++;
+        mp[0] = 1;
+        for (int i = 0; i<nums.size(); i++){
+            prefix +=nums[i];
+            int needed = prefix - k;
+            if (mp.find(needed)!=mp.end()){
+                count += mp[needed];
+            }
+            mp[prefix]++;
         }
-        return cnt;
+        return count;
     }
 };
