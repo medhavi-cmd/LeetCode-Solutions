@@ -5,7 +5,6 @@ public:
 
         int first = -1;
         int last = -1;
-
         int low = 0;
         int high = n - 1;
         while (low <= high) {
