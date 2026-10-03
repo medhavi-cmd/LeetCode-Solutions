@@ -7,6 +7,7 @@ public:
             l = max(l, nums[i]);
             h += nums[i];
         }
+        int ans = h;
 
         while(l<=h){
             int mid = l + (h-l)/2;
@@ -24,13 +25,14 @@ public:
             }
 
             if (sub<=k){
+                ans = mid;
                 h = mid-1;
             }
             else{
                 l = mid+1;
             }
         }
-        return l;
+        return ans;
         
     }
 };
