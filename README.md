@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
