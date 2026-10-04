@@ -5,9 +5,7 @@ public:
        unordered_map<int, int> mp;
        for(int n : nums){
         mp[n]++;
-       }
-       for(auto pair : mp){
-        if (pair.second >1){
+        if(mp[n] > 1){
             return true;
         }
        }
