@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,12 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
