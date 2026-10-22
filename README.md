@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
