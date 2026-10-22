@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Array
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
