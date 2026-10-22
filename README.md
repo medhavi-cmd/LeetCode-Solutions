@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
