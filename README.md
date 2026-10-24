@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## String Matching
