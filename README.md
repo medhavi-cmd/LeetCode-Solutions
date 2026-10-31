@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/medhavi-cmd/LeetCode-Solutions/tree/master/0078-subsets) |
